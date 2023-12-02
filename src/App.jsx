@@ -8,7 +8,7 @@ export default function App() {
     <div className="min-h-screen background">
 
       
-      <Navbar activePage="home"/>
+      <Navbar activePage="homes"/>
     
     </div>  
   )
